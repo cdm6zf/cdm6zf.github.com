@@ -1,0 +1,18 @@
+<style type="text/css" media="screen">
+html {background-color: green;}
+body {width: 100px; 
+	margin: 50px auto;
+	background-color: white;
+	color:teal;
+	padding: 20px;}
+
+	#primary {
+		width: 75%;
+		float:left;}
+
+	#secondary {width:20%; float:right;}
+	footer {
+		display:block; 
+		clear: both;
+	}
+	</style>

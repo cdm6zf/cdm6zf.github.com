@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <title>CSS Layout</title>
+
+  <style type="text/css" media="screen">
+
+  </style>
+
+</head>
+<body>
+  <header role="banner">
+
+  </header>
+
+    <div id="primary">
+
+    </div>
+
+    <div id="secondary">
+
+    </div>
+
+    <footer role="contentinfo">
+
+    </footer>
+</body>
+</html>
